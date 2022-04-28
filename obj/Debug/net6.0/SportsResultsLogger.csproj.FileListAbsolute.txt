@@ -15,3 +15,10 @@
 /Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/ref/SportsResultsLogger.dll
 /Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/HtmlAgilityPack.dll
 /Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.csproj.CopyComplete
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/ConsoleTableExt.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/MailKit.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/MimeKit.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll
