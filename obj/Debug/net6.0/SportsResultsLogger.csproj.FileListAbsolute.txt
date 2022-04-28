@@ -1,0 +1,17 @@
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/SportsResultsLogger
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/SportsResultsLogger.deps.json
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/SportsResultsLogger.runtimeconfig.json
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/SportsResultsLogger.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/SportsResultsLogger.pdb
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.csproj.AssemblyReference.cache
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.AssemblyInfoInputs.cache
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.AssemblyInfo.cs
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.csproj.CoreCompileInputs.cache
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.dll
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/refint/SportsResultsLogger.dll
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.pdb
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.genruntimeconfig.cache
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/ref/SportsResultsLogger.dll
+/Users/gavin/Projects/SportsResultsLogger/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/gavin/Projects/SportsResultsLogger/obj/Debug/net6.0/SportsResultsLogger.csproj.CopyComplete
